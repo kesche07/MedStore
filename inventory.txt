@@ -1,0 +1,10 @@
+Paracetamol 500mg,Lomus,1182,5.0,45.0,10
+Cetirizine 10mg,Quest,656,4.0,35.0,12
+Amoxicillin 500mg,Nepal Remedies,425,12.0,110.0,15
+Pantoprazole 40mg,Deurali-Janta,549,7.0,60.0,8
+ORS Sachet,Time Pharma,305,20.0,180.0,12
+Pyvita 10mg,Royal Drug Limited,500,1.4,50.0,10
+Atorvastatin 10mg,Ator,500,10.78,100.0,10
+Telmisartan 40mg,Telsartan,300,12.0,120.0,10
+Zinc Sulfate 20mg,Zinc-DT,400,3.0,30.0,10
+Clonazepam 0.5mg,Clonaz-0.5,350,4.05,40.0,10
